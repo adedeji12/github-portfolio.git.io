@@ -1,0 +1,82 @@
+
+body{
+    background-color: yellow;
+}
+.details{
+    display: flex;
+}
+.firstdetails{
+    margin-left: 20px;
+    background-color: rgb(241, 11, 11);
+    height: 650px;
+    width: 300px;
+    color: white ;
+    line-height: 0%;
+    
+}
+#james{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#location{
+    display: flex;
+    margin-left: 20px;
+}
+#whatsapp{
+    display: flex;
+    margin-left: 20px;
+}
+#gmail{
+    display: flex;
+    margin-left: 20px;
+}
+#call{
+    display: flex;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.seconddetails{
+    background-color: greenyellow;
+    width: 1000px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    line-height: 0%;
+}
+h2{
+    text-align: center;
+}
+h3{
+    margin-left: 10px;
+
+}
+#education{
+    margin-left: 10px;
+    /* line-height: 5px; */
+}
+#homeland{
+    margin-top: 30px;
+}
+#reference{
+    margin-top: 40px;
+}
+#p{
+    margin-left: 10px;
+}
+#about{
+    margin-left: 10px;
+}
+#babs{
+    margin-left: 10px;
+    line-height: 0%;
+}
+#post{
+    margin-left: 10px;
+    line-height: 0%;
+    margin-bottom: 40px;
+}
+#skills{
+    margin-left: 10px;
+    line-height: 10px;
+}
